@@ -1,0 +1,18 @@
+[package]
+name = "niceui"
+version = "0.1.0"
+authors = ["Alexander Korolev <kilork@yandex.ru>"]
+edition = "2018"
+categories = []
+description = """
+niceui description.
+"""
+homepage = "https://github.com/kilork/niceui"
+keywords = []
+license = "Unlicense OR MIT"
+readme = "README.md"
+repository = "https://github.com/kilork/niceui"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
